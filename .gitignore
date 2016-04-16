@@ -1,12 +1,11 @@
 # Compiled Code #
 *.class
-*/target/**
-
+/target
 # Package Files #
 *.jar
 *.war
 *.ear
-
+# Maven Files # 
 # Log Files #
 *.log
 
