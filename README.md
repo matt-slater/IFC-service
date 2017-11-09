@@ -1,5 +1,7 @@
 # IFC-service
 
+this service is live [here](http://34.237.46.112/ifcdate).
+
 Read more about the [International Fixed Calendar](https://en.wikipedia.org/wiki/International_Fixed_Calendar)
 
 Updated my old [FixedCalendar](https://github.com/matt-slater/FixedCalendar) into a web service using Spring Boot. I switched this project to Spring Boot when I learned about it because Spring Boot makes it so easy to get a working REST service set up. You don't have to worry about configuring Tomcat, as it is included with Spring Boot. All of the scaffolding and boilerplate code is removed from the process. You can just focus on the business logic.
