@@ -2,6 +2,7 @@ package io.mattslater.controllers;
 
 import io.mattslater.model.IFCDate;
 import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.ResponseBody;
@@ -11,6 +12,7 @@ import java.time.temporal.ChronoField;
 /**
  * Created by synapserelapse on 4/15/16.
  */
+@CrossOrigin
 @Controller
 @RequestMapping("/ifcdate")
 public class IFCController {
