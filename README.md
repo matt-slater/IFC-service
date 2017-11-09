@@ -1,6 +1,6 @@
 # IFC-service
 
-this service is live [here](http://34.237.46.112/ifcdate).
+this service is live [here](http://ifc-service-dev.us-east-1.elasticbeanstalk.com/ifcdate).
 
 Read more about the [International Fixed Calendar](https://en.wikipedia.org/wiki/International_Fixed_Calendar)
 
