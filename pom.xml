@@ -30,10 +30,8 @@
 		</dependency>
 		<dependency>
 			<groupId>org.threeten</groupId>
-			<artifactId>custombuiltjar</artifactId>
-			<version>1.0</version>
-			<scope>system</scope>
-			<systemPath>${project.basedir}/src/main/resources/threeten-extra-1.0-SNAPSHOT.jar</systemPath>
+			<artifactId>threeten-extra</artifactId>
+			<version>1.2</version>
 		</dependency>
 		
 		<dependency>
